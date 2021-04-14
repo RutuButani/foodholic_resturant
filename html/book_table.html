@@ -1,1 +1,51 @@
-
+<html>
+    <head>
+        <title>table registration</title>
+        <link rel="stylesheet" href="../css/book_table.css">
+    </head>
+    <body>
+    
+       <form action="../php/book_table.php" method="POST">    
+            <div>
+                <table>
+                    <caption> Table Registration</caption>
+                    <tr>
+                        <td>First name</td>
+                        <td><input type="text" id="fname" name="fname" style="font-size: 1.5vw;"></td>
+                    </tr>
+                    <tr>
+                        <td>Last name</td>
+                        <td><input type="text" id="lname" name="lname" style="font-size: 1.5vw;"></td>
+                    </tr>
+                    <tr>
+                        <td>Email</td>
+                        <td> <input type="email" id="email" name="email" style="font-size: 1.5vw;"></td>
+                    </tr>
+                    <tr>
+                        <td>Adress</td>
+                        <td><textarea id="adress" name="adress" rows="4"  style="font-size: 1.5vw;width:20vw;height:6vw"></textarea></td>
+                    </tr>
+                    <tr>
+                        <td>Number of person</td>
+                        <td><input type="number" id="nperson" name="nperson" style="font-size: 1.5vw;"></td>
+                    </tr>
+                    <tr>
+                        <td>Date</td>
+                        <td><input type="date" id="date" name="date" style="font-size: 1.5vw;"></td>
+                    </tr>
+                    <tr>
+                        <td>Time</td>
+                        <td><input type="time" id="timing" name="timing" style="font-size: 1.5vw;"></td>
+                    </tr>
+                    <tr>
+                        <td>Table number</td>
+                        <td> <input type="text" id="tableno" name="tableno" style="font-size: 1.5vw;"></td>
+                    </tr>
+                    <tr>
+                        <td><input type="submit" value="Submit" style="font-size: 1.5vw; width: 9vw; height:3vw"></td>
+                    </tr>
+                </table>
+            </div>
+       </form>
+    </body>
+</html>
