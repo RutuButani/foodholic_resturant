@@ -1,1 +1,101 @@
+body
+{
+    background-image:url("../img/food15.jpg") ;
+    background-repeat: no-repeat;
+    background-size:100vw 100vh;
+    margin: 0;
+    padding: 0;
+}
+html
+{
+    margin: 0;
+    padding: 0;
+}
+table
+{
+    margin: 0;
+    padding: 0;
+    font-size:1.3vw;
+    padding-left: 7vw;
+    border-spacing: 0.5vw;
+}
+div
+{
+    margin: 0;
+    padding: 0;
+    border-radius: 1vw;
+    border:0.05vw solid orange;
+}
+.first
+{
+    margin: 0;
+    padding: 0;
+    width:40vw;
+    height:80vh;
+    background-color:rgb(29, 23, 23);
+    text-align: auto;
+    float:left;
+    margin-top: 5vh;
+    margin-left: 14vw;
+    padding-top: 5vh;
+    padding-bottom:5vh;
+    color: whitesmoke;
+    font-size: 1.5vw;
+   
+}
+.second
+{
+    margin: 0;
+    padding: 0;
+    width:30vw;
+    height:22vh;
+    background-color:rgb(29, 23, 23);
+    float:right;
+    padding-top:1vh;
+    color: whitesmoke;
+    margin-right: 14vw;
+    margin-top: 2vh;
+    font-size: 1.3vw;
+}
+.third
+{
+    margin: 0;
+    padding: 0;
+    width:30vw;
+    height:22vh;
+    background-color:rgb(29, 23, 23);
+    float:right;
+    padding-top:1vh;
+    color: whitesmoke;
+    margin-right: 14vw;
+}
+.forth
+{
+    margin: 0;
+    padding: 0;
+    width:30vw;
+    height:22vh;
+    background-color:rgb(29, 23, 23);
+    float:right;
+    padding-top:1vh;
+    color: whitesmoke;
+    margin-right: 14vw;
+}
+.fifth
+{
+    margin: 0;
+    padding: 0;
+    width:30vw;
+    height:25vh;
+    background-color:rgb(29, 23, 23);
+    float:right;
+    padding-top:1vh;
+    color: whitesmoke;
+    margin-right: 14vw;
+}
 
+tr,th,td
+{
+    margin: 0;
+    padding: 0;
+}
