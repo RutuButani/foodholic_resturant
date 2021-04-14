@@ -1,1 +1,97 @@
+body
+{
+    background-image:url("../img/food15.jpg") ;
+    background-repeat: no-repeat;
+    background-size:100vw 100vh;
+    margin: 0;
+    padding: 0;
+}
+html
+{
+    margin: 0;
+    padding: 0;
+}
+.logo
+{
+    float:left;
+    width: 10vw;
+    height: 10vw;
+    position: relative;
+}
+.first
+    {
+        float:right;
+        font-size: 2vw;
+        height:10vw;
+        width:50vw;
+        margin: 0;
+        padding: 0;
+        /*margin-top: 0px;*/
+        /*position:absolute; */
+       /* background-color: green; */
+    }
+ul
+{
+    margin: 0;
+    padding: 0;
+    list-style-type:none;
+   /* background-color:green; */
+    
+   
+}
+li
+{
+    margin: 0;
+    padding: 0;
+    font-size:2vw;
+    color:black;
+    text-align:end;
+    display:inline;
+    
+   
+}
+li a
+{
+    display: block;
+    padding : 2vw;
+    color:black;
+    text-decoration:none;
+    float:left;
+}
+li a:hover
+{
+    background-color:gray;
+}
+.second
+{
+    position: relative;
+    float: left;
+    margin: 0;
+    padding: 0;
+    height:30vw;
+    width:30vw;
+    margin-top:10vh;
+    text-align:center;
+    font-size: 2vw;
+    margin-left: 15vw;
+   /* background-color: maroon;*/
+}
+pre
+{
+    margin: 0;
+    padding: 0;
+    text-align:justify;
+    font-size:2vw;
+    color:black;
+    font-family: cursive;
+}
+.third
+{
+    font-size: 2vw;
+    text-align: center;
+}
+
+   
+
+
 
