@@ -1,1 +1,65 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-image:url("../img/food15.jpg") ;
+    background-repeat: no-repeat;
+    background-size:100vw 100vh;
+    margin-left: 30vw;
+}
 
+html
+{
+    margin:0;
+    padding: 0;
+}
+div
+{
+    margin: 0;
+    padding: 0;
+    height:20vh;
+    width:40vw;
+    background-color:rgb(63, 61, 61);
+}
+.first
+{
+    
+    margin: 0;
+    padding: 0;
+    font-size: 1.3vw;
+    color:whitesmoke;
+    margin-top: 10vh;
+}
+.second
+{
+    font-size: 1.3vw;
+    color:whitesmoke;
+    margin: 0;
+    padding: 0;
+}
+.third
+{
+    font-size: 1.3vw;
+    color:whitesmoke;
+    margin: 0;
+    padding: 0;
+}
+.forth
+{
+    font-size: 1.3vw;
+    color:whitesmoke;
+    margin: 0;
+    padding: 0;
+}
+tr,th,td
+{
+    margin: 0;
+    padding: 0;
+}
+table
+{
+    margin: 0;
+    padding: 0;
+    border-spacing: 0.2vw;
+    padding-left: 7vw;
+}
