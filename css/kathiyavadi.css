@@ -1,1 +1,91 @@
+body
+{
+    background-image:url("../img/food15.jpg") ;
+    background-repeat: no-repeat;
+    background-size:100vw 100vh;
+    margin: 0;
+    padding: 0;
+}
+html
+{
+    margin: 0;
+    padding: 0;
+}
 
+.first
+{
+    margin: 0;
+    padding: 0;
+    width:40vw;
+    height:60vh;
+    font-size:1.5vw;
+    margin-top: 5vh;
+    margin-left: 25vw;
+    padding-top: 5vh;
+    padding-left: 15vh;
+    background-color: cadetblue;
+    border-radius: 1vw;
+    background-color:rgb(29, 23, 23);
+    color:whitesmoke;
+    font-family:cursive;
+    border-spacing: 0;
+}
+.second
+{
+    margin: 0;
+    padding: 0;
+    width:20vw;
+    height:18vh;
+    font-size: 1.5vw;
+    margin-left: 20vw;
+    background-color: coral;
+    text-align:start;
+    border-radius: 1vw;
+    background-color:rgb(29, 23, 23);
+    color:whitesmoke;
+    font-family: cursive;
+    float:left;
+    padding-top: 2vh;
+    margin-top: 2vh;
+    border-spacing: 0;
+    padding-right: 5vw;
+    padding-left: 5vw;
+
+    
+}
+.third
+{
+    margin: 0;
+    padding: 0;
+    width:25vw;
+    height:18vh;
+    font-size: 1.5vw;
+    margin-left: 2vw;
+    background-color: coral;
+    text-align:start;
+    border-radius: 1vw;
+    background-color:rgb(29, 23, 23);
+    color:whitesmoke;
+    font-family: cursive;
+    float:left;
+    padding-top: 2vh;
+    margin-top: 2vh;
+    padding-left:5vw;
+    border-spacing: 0;
+    
+}
+    
+table
+{
+    margin: 0;
+    padding: 0;
+    font-size: 1.3vw;
+    border-spacing: 0vw;
+}
+tr,th,td
+{
+    margin: 0;
+    padding: 0;
+    border-spacing: 0;
+    
+}
